@@ -7,7 +7,6 @@ EventSum can be obtained from:
 	1) Evaluation Website: https://caution-pest-dot-crowd.trycloudflare.com/ (email me to get the authorization code)
 	2) Competition Platform: [https://www.datafountain.cn/competitions/1088/datasets](https://www.xir.cn/competitions/1131)
 
-Trained NLI models can be obtained from [waiting for updated (before 10th November)]:
 
 
 
@@ -344,15 +343,11 @@ Performances of advanced llms on EventSum can be seen in this table.
 
 ## How to evaluate
 
-Considering the potential impact of data leakage on evaluation, as mentioned in the paper, and in light of the ongoing work, the labels of the test set will remain withheld. If you need to evaluate on the test set, please submit your result files to the platform in accordance with the submission requirements. [Open for testing daily from 12:00 PM to 2:00 PM.]
+Considering the potential impact of data leakage on evaluation, as mentioned in the paper, and in light of the ongoing work, the labels of the test set will remain withheld. If you need to evaluate on the test set, please submit your result files in accordance with the submission requirements on the website: 
 
-[Platform]: https://www.datafountain.cn/competitions/1088	"The Platform"
+[Evaluation website]: https://caution-pest-dot-crowd.trycloudflare.com/
 
-We will continuously improve and extend this dataset, and conduct further research based on it. We invite the community to follow and engage with our work.
-
-Please save the test set results in JSON format with UTF-8 encoding, including the summaries generated based on each document set.
-
-**Note:** Please submit the JSON result file named **`result.json`** and the integrity of the data must be ensured.
+Please email me to get the authorization code.
 
 Here is an submission example:
 
