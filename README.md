@@ -4,7 +4,8 @@ Source code and dataset for AAAI 2025 paper: "[**EventSum: A Large-Scale Event-C
 
 EventSum can be obtained from:
 
-1) Competition Platform: [https://www.datafountain.cn/competitions/1088/datasets](https://www.xir.cn/competitions/1131)
+	1) Evaluation Website: https://caution-pest-dot-crowd.trycloudflare.com/ (email me to get the authorization code)
+	2) Competition Platform: [https://www.datafountain.cn/competitions/1088/datasets](https://www.xir.cn/competitions/1131)
 
 Trained NLI models can be obtained from [waiting for updated (before 10th November)]:
 
