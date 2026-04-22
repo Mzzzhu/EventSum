@@ -345,7 +345,7 @@ Performances of advanced llms on EventSum can be seen in this table.
 
 Considering the potential impact of data leakage on evaluation, as mentioned in the paper, and in light of the ongoing work, the labels of the test set will remain withheld. If you need to evaluate on the test set, please submit your result files in accordance with the submission requirements on the website: 
 
-[Evaluation website]: https://caution-pest-dot-crowd.trycloudflare.com/
+https://caution-pest-dot-crowd.trycloudflare.com/
 
 Please email me to get the authorization code.
 
