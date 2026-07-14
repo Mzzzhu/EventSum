@@ -4,7 +4,7 @@ Source code and dataset for AAAI 2025 paper: "[**EventSum: A Large-Scale Event-C
 
 EventSum can be obtained from:
 
-	1) Evaluation Website: [https://caution-pest-dot-crowd.trycloudflare.com/](https://creating-manufacturing-demonstrates-muze.trycloudflare.com) (email me to get the authorization code)
+	1) Evaluation Website: https://creating-manufacturing-demonstrates-muze.trycloudflare.com (email me to get the authorization code)
 	2) Competition Platform: [https://www.datafountain.cn/competitions/1088/datasets](https://www.xir.cn/competitions/1131)
 
 
